@@ -1,13 +1,13 @@
 Aframe
-=========================
+================
 Aframe技术框架交流分享
 * QQ群：282902397 ##作者个人微信 Derry_zhou
 ----------------
-##Aframe简介
+[DerryJhou](http://233077770.qzone.qq.com) Aframe简介
 -------------
-    Aframe 是一个android的sqlite orm 和 ioc 框架。同时封装了android中的http框架，使其更加简单易用；
-    使用finalBitmap，无需考虑bitmap在android中加载的时候oom的问题和快速滑动的时候图片加载位置错位等问题。
-    Afinal的宗旨是简洁，快速。约定大于配置的方式。尽量一行代码完成所有事情。
+<br>Aframe 是一个android的sqlite orm 和 ioc 框架。同时封装了android中的http框架，使其更加简单易用；
+<br>使用finalBitmap，无需考虑bitmap在android中加载的时候oom的问题和快速滑动的时候图片加载位置错位等问题。
+<br>Afinal的宗旨是简洁，快速。约定大于配置的方式。尽量一行代码完成所有事情.
 
 ##目前Afinal主要有四大模块：
 

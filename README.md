@@ -281,7 +281,7 @@ public View getView(int position, View convertView, ViewGroup parent) {
 
 #关于作者DerryJhou
 * 个人博客：[http://233077770@qq.com](http://233077770@qq.com])
-* afinal交流QQ群 ：282902397
+* Aframe技术框架交流分享QQ群 ：282902397
 #个人微信
 ![Derry_zhou](http://7xi3g2.com1.z0.glb.clouddn.com/grwx.png?imageView2/1/w/250/h/250/q/87)
 

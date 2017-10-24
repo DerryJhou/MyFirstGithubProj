@@ -1,10 +1,13 @@
-#afinal交流平台
+#Aframe
+=========================
 
-    QQ群：192341294（群1，2000未满） 246710918（群2，1000未满） ##作者个人微信 mahua
+#Aframe技术框架交流分享
+--------------------------------
+    QQ群：282902397 ##作者个人微信 Derry_zhou
 
-mahua Afinal简介
+Aframe简介
 
-    Afinal 是一个android的sqlite orm 和 ioc 框架。同时封装了android中的http框架，使其更加简单易用；
+    Aframe 是一个android的sqlite orm 和 ioc 框架。同时封装了android中的http框架，使其更加简单易用；
     使用finalBitmap，无需考虑bitmap在android中加载的时候oom的问题和快速滑动的时候图片加载位置错位等问题。
     Afinal的宗旨是简洁，快速。约定大于配置的方式。尽量一行代码完成所有事情。
 
